@@ -16,7 +16,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-    r_text[1] = "*╔═════😎Sophia😎═════╗*\n           \n*⚜═Sophia═⚜*\n\n*owner Hisham - http://Wa.me/+919400374036*\n* *\n🔰instagram:- https://youtube.com/c/ICHUTECH*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Hisham-Muhammed*"
+    r_text[1] = "*╔══➪ιтѕ мє ┆мєℓ-вσт┆══╗*\n           \n*⚜═MEL-BOT═⚜*\n\n*owner ᴠɪᴄʜᴜ⸙ - http://wa.me/+916282715084*\n* *\n🔰EMAIL : adarshmohanj07@gmail.com*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator:ᴠɪᴄʜᴜ⸙*"
 
     
 
@@ -32,7 +32,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-        r_text[1] = "*Git links*\n           *\n💥═Sophia Owner Hisham-Muhammed═💥*\n\n*💘 https://github.com/Hisham-Muhammed/Sophia*\n*     *\n💓Liyamol═Owner Saidali═*\n\n*⚜https://github.com/saidalisaid2/LiyaMol*    *\n\n⚜yt link to set bot:- https://youtu.be/_D4ZYuUSXjs*"
+        r_text[1] = "*Git links*\n           *\n💥═MEL-BOT by VICHU═💥*\n\n*💘 https://github.com/Hisham-Muhammed/Sophia*\n*     *\n💓Liyamol═Owner Saidali═*\n\n  \n\n⚜yt link to set bot:- https://youtu.be/_D4ZYuUSXjs*"
 
     
 
@@ -56,7 +56,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-    r_text[1] = "*╔═════😎Sophia😎═════╗*\n           \n*⚜═Sophia═⚜*\n\n*owner Hisham-Muhammed - http://Wa.me/+919400374046*\n* *\n🔰Youtube: https://youtube.com/c/ICHUTECH*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Hisham-Muhammed*"
+    r_text[1] = "*╔══ιтѕ мє ┆мєℓ-вσт┆══╗*\n           \n*⚜═MEL-BOT═⚜*\n\n*owner VICHU - http://Wa.me/+916282715084*\n* *\n🔰EMAIL : adarshmohanj07@gmail.com*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Vichu🔥*"
 
     
 
@@ -72,7 +72,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-        r_text[1] = "*Git links*\n           *\n💥═Sophia Owner Hisham-Muhammed═💥*\n\n*💘 https://github.com/Hisham-Muhammed/Sophia*\n*     *\n💓Liyamol═Owner Saidali═*\n\n*⚜https://github.com/saidalisaid2/LiyaMol*    *\n\n⚜yt link to set bot:- https://youtu.be/_D4ZYuUSXjs*"
+        r_text[1] = "*Git links*\n           *\n💥═MEL-BOT by TOMMY SHELBY═💥*\n\n*💘 https://github.com/MelbotV1/Sophia-2*\n*     *\n*💓FOR HELP: wa.me/916282715084*\n*"
 
     
 
