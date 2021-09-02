@@ -44,7 +44,15 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'ʟɪͥʏͭᴀᷤᴍᷟᴏͤʟ Bot created by *Afnan pallikkel*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*➪ιтѕ мє ┆мєℓ-вσт┆.*
+
+*▣ ʙᴏᴛ ɴᴀᴍᴇ :┇ᴍᴇʟ-ʙᴏᴛ┇*
+
+*▣ ʙᴏᴛ ᴛʏᴘᴇ : ᴘᴜʙʟɪᴄ*
+
+*▣ ᴏᴡɴᴇʀ ᴏғ ᴛʜᴇ ʙᴏᴛ : ᴠɪᴄʜᴜ⸙*
+
+*▣ ᴏᴡɴᴇʀ ᴄᴏɴᴛᴀᴄᴛ ɴᴜᴍʙᴇʀ : wa.me/916282715084*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.PLK + '\n\n--------------------', MessageType.text);
