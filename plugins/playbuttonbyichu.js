@@ -29,7 +29,7 @@ Asena.addCommand({pattern: 'gp ?(.*)', fromMe: false, dontAddCommandList: true},
 
     var webimage = await axios.get(`https://api.zeks.xyz/api/gplaybutton?apikey=bY17wlPg4XQvRQkJRqXjPPipPd2&text=${match[1]}`, { responseType: 'arraybuffer' })
 
-  await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*Made by Sophia*'  })
+  await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '*Made by MEL-BOT*'  })
 
 }));
     
